@@ -12,4 +12,5 @@ The minimum requirement by this project template is that your Web server support
     
 ## Preparing application
 
-Apply migrations with console command `yii migrate`.
+Apply migrations with console command 
+    `php yii migrate`
