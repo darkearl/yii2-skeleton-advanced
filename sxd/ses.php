@@ -1,6 +1,6 @@
 <?php
 $SES = array (
-  '14cd44393d3b68dd22cb0ef9240bee8e' => 
+  '21d82e9a4b3e9457679b8f90bd05272e' => 
   array (
     'cfg' => 
     array (
@@ -14,8 +14,8 @@ $SES = array (
       'globstat' => 0,
       'my_host' => 'localhost',
       'my_port' => 3306,
-      'my_user' => 'trungdavid',
-      'my_pass' => '',
+      'my_user' => 'root',
+      'my_pass' => 'root',
       'my_comp' => 0,
       'my_db' => '',
       'auth' => 'mysql cfg',
@@ -24,7 +24,7 @@ $SES = array (
       'confirm' => '6',
       'exitURL' => './',
     ),
-    'time' => 1453348179,
+    'time' => 1453792795,
     'lng' => 'en',
   ),
 );
