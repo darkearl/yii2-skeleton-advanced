@@ -13,5 +13,6 @@ The minimum requirement by this project template is that your Web server support
 ## Preparing application
 
 Apply database via Sypex Dumper 
+
     1.Open an URL http://domain.com/sxd/ in browser.
     2.Enter the username and password for your database.
