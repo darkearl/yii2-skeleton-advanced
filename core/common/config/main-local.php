@@ -3,9 +3,9 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=yii2skeleton;unix_socket=/usr/local/ampps/var/mysql.sock',
+            'dsn' => 'mysql:host=localhost;dbname=yii2skeleton',
             'username' => 'root',
-            'password' => 'root',
+            'password' => '',
             'charset' => 'utf8',
         ],
         'urlManager' =>[
