@@ -6,7 +6,8 @@ Installation
 The minimum requirement by this project template is that your Web server supports PHP 5.4.0.
 
 ## Installing using Composer
-
+    curl -sS https://getcomposer.org/installer | php
+    mv composer.phar /usr/local/bin/composer
     composer global require "fxp/composer-asset-plugin:~1.1.1"
     php composer.phar update
     
