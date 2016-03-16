@@ -16,3 +16,4 @@ Apply database via Sypex Dumper
 
     1.Open an URL http://domain.com/sxd/ in browser.
     2.Enter the username and password for your database.
+    3.Acount admin/admin
